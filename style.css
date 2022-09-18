@@ -1,0 +1,184 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url("https://i.pinimg.com/originals/71/9e/80/719e80760999b4c355a723224120eb07.png");
+    background-color: #000000;
+    background-size: 250vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+    
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+ 
+  .container-inputs {
+    margin-top: 25px;
+  }
+  
+  .input1 {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 5px;
+    width: 150px;
+    height: 20px;
+    border-radius: 50px;
+    border-color: #804D8B;
+    border-width: 3px;
+    background-color: transparent;
+    margin-top: 10px;
+    margin-block-end: 10px;
+    align-content: center;
+    margin: 0 auto;
+  }
+
+  .input1:focus {
+    font-family: "Roboto Mono", monospace;
+    border-radius: 50px;
+    border-color: #804D8B;
+    background-color: transparent;
+    box-shadow: 0 0 0 0;
+    outline: 0;
+  }
+
+  .input1:placeholder-shown {
+    font-family: "Roboto Mono", monospace;
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .input2 {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 5px;
+    width: 150px;
+    height: 20px;
+    border-radius: 50px;
+    border-color: #804D8B;
+    border-width: 3px;
+    background-color: transparent;
+    margin-top: 10px;
+    margin-block-end: 10px;
+    align-content: center;
+    margin: 0 auto;
+  }
+
+  .input2:focus {
+    font-family: "Roboto Mono", monospace;
+    border-radius: 50px;
+    border-color: #804D8B;
+    background-color: transparent;
+    box-shadow: 0 0 0 0;
+    outline: 0;
+  }
+
+  .input2:placeholder-shown {
+    font-family: "Roboto Mono", monospace;
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .input3 {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 5px;
+    width: 150px;
+    height: 20px;
+    border-radius: 50px;
+    border-color: #804D8B;
+    border-width: 3px;
+    background-color: transparent;
+    margin-top: 10px;
+    margin-block-end: 10px;
+    align-content: center;
+    margin: 0 auto;
+  }
+
+  .input3:focus {
+    font-family: "Roboto Mono", monospace;
+    border-radius: 50px;
+    border-color: #804D8B;
+    background-color: transparent;
+    box-shadow: 0 0 0 0;
+    outline: 0;
+  }
+
+  .input3:placeholder-shown {
+    font-family: "Roboto Mono", monospace;
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .input4 {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 5px;
+    width: 150px;
+    height: 20px;
+    border-radius: 50px;
+    border-color: #804D8B;
+    border-width: 3px;
+    background-color: transparent;
+    margin-top: 10px;
+    margin-block-end: 10px;
+    align-content: center;
+    margin: 0 auto;
+  }
+
+  .input4:focus {
+    font-family: "Roboto Mono", monospace;
+    border-radius: 50px;
+    border-color: #804D8B;
+    background-color: transparent;
+    box-shadow: 0 0 0 0;
+    outline: 0;
+  }
+
+  .input4:placeholder-shown {
+    font-family: "Roboto Mono", monospace;
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .button-calc {
+    margin-top: 25px;
+    padding: 7px;
+    width: 150px;
+    border-radius: 30px;
+    border-color: #804D8B;
+    border-width: 3px;
+    background-color: #fed24e87;
+    font-family: "Roboto Mono", monospace;
+  }
